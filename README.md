@@ -1,5 +1,5 @@
 # 20: Smart Contracts with Solidity - Remix IDE, JavaScript VM
-FinTech Bootcamp Module 20 Challenge
+FinTech Boot Camp Module 20 Challenge
 
 ---
 
